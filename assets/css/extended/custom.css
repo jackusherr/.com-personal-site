@@ -1,0 +1,44 @@
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+.entry-content {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+}
+
+.entry-footer {
+    margin-top: 16px;
+}
+
+.post-entry {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.entry-header h2 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.entry-header h2 a:hover {
+    text-decoration: underline;
+}
+
+.entry-link {
+    display: none;
+}
+
+.entry-content {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+    color: black; /* or use: color: #000; or color: var(--primary); */
+}
+
+h1, h2, h3, h4, h5, h6,
+.entry-header h2,
+.post-title,
+.page-header h1 {
+    font-family: 'Libre Franklin', sans-serif;
+}
