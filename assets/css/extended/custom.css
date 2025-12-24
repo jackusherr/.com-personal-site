@@ -33,7 +33,7 @@ body {
 .entry-content {
     -webkit-line-clamp: unset;
     overflow: visible;
-    color: black; /* or use: color: #000; or color: var(--primary); */
+    color: var(--primary); /* or use: color: #000; or color: var(--primary); */
 }
 
 h1, h2, h3, h4, h5, h6,
