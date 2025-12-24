@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Jack Usher'
+title = 'The Daily Jack'
 theme = 'PaperMod'
 
 [params]
