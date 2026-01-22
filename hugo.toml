@@ -1,7 +1,7 @@
 baseURL = 'https://jackusher.com'
 languageCode = 'en-us'
 title = 'Jack Usher'
-theme = 'PaperMod'
+# theme = 'PaperMod'
 
 [params]
     fullPostContent = true # This makes it scrollable/full text
