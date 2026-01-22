@@ -1,10 +1,24 @@
-{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+{{ define "title" }}{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}{{ end }}
 {{ define "main" }}
-    {{ range .Pages.ByDate.Reverse }}
+    {{ if .IsHome }}
+    {{/* Homepage: Show full posts with dates and dividers */}}
+    {{ $posts := .Site.RegularPages.ByDate.Reverse }}
+    {{ range $index, $post := $posts }}
     <article>
-        <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        {{ .Content }}
+        <time datetime="{{ $post.Date }}">{{ $post.Date.Format "January 2, 2006" }}</time>
+        <h2><a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a></h2>
+        {{ $post.Content }}
     </article>
+    {{ if lt $index (sub (len $posts) 1) }}
+    <hr class="post-divider">
+    {{ end }}
+    {{ end }}
+    {{ else }}
+    {{/* Archive page: Simple bulleted list */}}
+    <ul class="archive-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
     {{ end }}
 {{ end }}

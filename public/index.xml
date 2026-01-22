@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack Usher</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Jack Usher</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Dec 2025 08:16:22 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 08:18:42 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merry Christmas!</title>
+      <link>http://localhost:1313/posts/2025-12-25-merry-christmas/</link>
+      <pubDate>Thu, 25 Dec 2025 08:18:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025-12-25-merry-christmas/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://isitchristmas.com/&#34;&gt;isitchristmas.com&lt;/a&gt;. A friend showed me this site in high school. It&amp;rsquo;s so pointless, yet I&amp;rsquo;ve never forgotten it. Today is the only day of the year where it says something different. The power of a great domain name!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Now that I&amp;rsquo;m a dad, I think a lot more about Santa. I&amp;rsquo;m not surprised that many kids believe in Santa long past the age where you&amp;rsquo;d think they would &amp;ldquo;figure it out.&amp;rdquo; It&amp;rsquo;s because they want to believe it&amp;rsquo;s true—to feel like there really is magic in the world. That belief and optimism is what I wish more adults would take away from those kids.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Graceful Exit</title>
       <link>http://localhost:1313/posts/2025-12-24-the-graceful-exit/</link>
       <pubDate>Wed, 24 Dec 2025 08:16:22 -0500</pubDate>
       <guid>http://localhost:1313/posts/2025-12-24-the-graceful-exit/</guid>
-      <description>&lt;p&gt;A small skill to improve your social life and career: Master the &amp;ldquo;graceful exit.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;You don&amp;rsquo;t have to make things up or be awkward about exiting a situation. Just be clear, kind, and graceful.&lt;/p&gt;
-&lt;p&gt;I think it&amp;rsquo;s only 10% knowledge and 90% confidence. The grace is achieved when you pick the right moment to exit, and put the full force of your confidence into executing it.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;https://x.com/libriscent/status/2003089201928286283?s=20&#34;&gt;this X post&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A small skill to improve your social life and career: Master the &amp;ldquo;graceful exit.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;You don&amp;rsquo;t have to make things up or be awkward about exiting a situation. Just be clear, kind, and graceful.&lt;/p&gt;&#xA;&lt;p&gt;I think it&amp;rsquo;s only 10% knowledge and 90% confidence. The grace is achieved when you pick the right moment to exit, and put the full force of your confidence into executing it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;https://x.com/libriscent/status/2003089201928286283?s=20&#34;&gt;this X post&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI and Law School</title>
       <link>http://localhost:1313/posts/2025-12-23-ai-and-law-school/</link>
       <pubDate>Tue, 23 Dec 2025 08:18:42 -0500</pubDate>
       <guid>http://localhost:1313/posts/2025-12-23-ai-and-law-school/</guid>
-      <description>&lt;p&gt;One of the effects of widespread AI adoption should be (finally?) proving that law school isn&amp;rsquo;t a good haven for directionless people or people who can&amp;rsquo;t find a job.&lt;/p&gt;
-&lt;p&gt;If AI really is coming for all the lawyers, there&amp;rsquo;s no way law school in its current form survives it.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Inspired by &lt;a href=&#34;https://spectator.com/article/ai-will-kill-all-the-lawyers/&#34;&gt;this article&lt;/a&gt; about an old British lawyer seeing AI write a perfect brief in about 10 seconds.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of the effects of widespread AI adoption should be (finally?) proving that law school isn&amp;rsquo;t a good haven for directionless people or people who can&amp;rsquo;t find a job.&lt;/p&gt;&#xA;&lt;p&gt;If AI really is coming for all the lawyers, there&amp;rsquo;s no way law school in its current form survives it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Inspired by &lt;a href=&#34;https://spectator.com/article/ai-will-kill-all-the-lawyers/&#34;&gt;this article&lt;/a&gt; about an old British lawyer seeing AI write a perfect brief in about 10 seconds.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
