@@ -5,7 +5,7 @@
     {{ $posts := .Site.RegularPages.ByDate.Reverse }}
     {{ range $index, $post := $posts }}
     <article>
-        <time datetime="{{ $post.Date }}">{{ $post.Date.Format "January 2, 2006" }}</time>
+        <time datetime="{{ $post.Date }}">{{ $post.Date.Format "2006-01-02" }}</time>
         <h2><a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a></h2>
         {{ $post.Content }}
     </article>
