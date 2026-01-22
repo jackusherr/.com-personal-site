@@ -2,7 +2,7 @@
 {{ define "main" }}
     {{ range .Pages.ByDate.Reverse }}
     <article>
-        <time datetime="{{ .Date }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{ .Content }}
     </article>
