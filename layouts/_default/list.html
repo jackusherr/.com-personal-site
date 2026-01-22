@@ -2,7 +2,8 @@
 {{ define "main" }}
     {{ if .IsHome }}
     {{/* Homepage: Show full posts with dates and dividers */}}
-    {{ $posts := .Site.RegularPages.ByDate.Reverse }}
+    {{ $posts := where .Site.RegularPages "Section" "posts" }}
+    {{ $posts = $posts.ByDate.Reverse }}
     {{ range $index, $post := $posts }}
     <article>
         <time datetime="{{ $post.Date }}">{{ $post.Date.Format "2006-01-02" }}</time>
