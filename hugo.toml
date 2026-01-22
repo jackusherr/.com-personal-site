@@ -1,6 +1,6 @@
 baseURL = 'https://jackusher.com'
 languageCode = 'en-us'
-title = 'The Daily Jack'
+title = 'Jack Usher'
 theme = 'PaperMod'
 
 [params]
