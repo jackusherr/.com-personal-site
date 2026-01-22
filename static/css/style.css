@@ -30,12 +30,12 @@ nav a {
 nav a:hover,
 nav a:focus {
     color: #c00;
-    text-decoration: underline;
+    text-decoratio: underline;
 }
 
 /* Headings */
 h1 {
-    font-family: 'ystem-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family 'ystem-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
     color: #c00;
     font-size: 28px;
     margin-top: 40px;
