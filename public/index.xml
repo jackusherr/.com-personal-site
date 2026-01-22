@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/posts/2025-12-23-ai-and-law-school/</guid>
       <description>&lt;p&gt;One of the effects of widespread AI adoption should be (finally?) proving that law school isn&amp;rsquo;t a good haven for directionless people or people who can&amp;rsquo;t find a job.&lt;/p&gt;&#xA;&lt;p&gt;If AI really is coming for all the lawyers, there&amp;rsquo;s no way law school in its current form survives it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Inspired by &lt;a href=&#34;https://spectator.com/article/ai-will-kill-all-the-lawyers/&#34;&gt;this article&lt;/a&gt; about an old British lawyer seeing AI write a perfect brief in about 10 seconds.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h1 id=&#34;what-im-doing-now&#34;&gt;What I&amp;rsquo;m Doing Now&lt;/h1&gt;&#xA;&lt;h3 id=&#34;marketing-team-at-allen-control-systems-acs&#34;&gt;Marketing Team at Allen Control Systems (ACS)&lt;/h3&gt;&#xA;&lt;p&gt;I was the first hire for the marketing team in June 2024, and now we have a full six person team. ACS is a defense technology company. We&amp;rsquo;ve developed a robot that uses a machine gun to shoot drones out of the sky.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
