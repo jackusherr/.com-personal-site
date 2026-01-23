@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <div style="max-width: 640px; margin: 60px auto; padding: 0 20px;">
+    <h1>{{ .Site.Title }}</h1>
+
+    {{ .Content }}
+
+    <p>
+      <a href="https://blog.jackusher.com">Blog</a><br>
+      <a href="https://twitter.com/jackusherr">Twitter</a><br>
+      <a href="https://linkedin.com/in/jack-usher/">LinkedIn</a>
+    </p>
+
+    <p>© {{ now.Year }} {{ .Site.Title }}</p>
+  </div>
+</body>
+</html>
