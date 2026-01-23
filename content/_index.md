@@ -12,7 +12,7 @@ I was the first hire for the marketing team in June 2024, and now we have a full
 
 ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of electrical engineering, robotics, computer vision, and mechanical engineering.
 
-Here's a video. It is an awesome product.
+[Here's a video](https://x.com/allencontrol/status/2013369081584300040?s=20). It is an awesome product.
 
 #### II. Podcast Producing
 
