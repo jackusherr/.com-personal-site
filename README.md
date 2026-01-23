@@ -1,1 +1,1 @@
-2026-01-22: Currently running jackusher.com. My own domain + my own content + a webspace I control
+2026-01-22: jackusher.com. HTML only About / Now page with links to Blog, Twitter, LinkedIn.
