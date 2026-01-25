@@ -1,3 +1,9 @@
++++
+title = "Work Traffic Snakes"
+date = 2026-01-25T14:00:00-05:00
+draft = false
++++
+
 This YouTube video, titled [“The Simple Solution to Traffic,”](https://www.youtube.com/watch?v=iHzzSao6ypE) helped me think through a common dynamic within big organizations.
 
 The problem of traffic is not about frequent accidents or “bad drivers.” It’s about a lack of coordination among drivers on the road.
