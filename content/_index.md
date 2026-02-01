@@ -10,15 +10,15 @@ draft = false
 
 I was the first hire for the marketing team in June 2024, and now we have a full six person team.
 
-ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of electrical engineering, robotics, computer vision, and mechanical engineering.
+ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
 
 [Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). It is an awesome product.
 
 #### II. Podcast Producing
 
-The second part of my job at ACS is to produce a podcast called [The Drone Ultimatum.](https://www.youtube.com/@thedroneultimatum) 
+The second part of my job at ACS is to produce our podcast, [The Drone Ultimatum.](https://www.youtube.com/@thedroneultimatum) 
 
-What initially started out as a hobby project of our company President (my ultimate boss) has turned into a full-blown voice in the industry. We launched in September 2024 and have published 61 episodes to date. Tens of thousands of downloads. We record every episode face-to-face, in person.
+What initially started out as a hobby project of our company President (my ultimate boss) has turned into a full-blown voice in the industry. We launched in September 2024 and have published over 60 episodes to date. Tens of thousands of downloads. We record every episode face-to-face, in person.
 
 I'm in charge of everything except the hosting. I book the guests, organize logistics, prep the topics & questions, hire and manage the editor, set up and maintain the AV equipment, sit in the room and manage the recording process (while also speaking up occasionally during the episode), and a few other miscellaneous things. 
 
