@@ -37,5 +37,3 @@ My other full-time job is being a husband and a dad. Best jobs in the world. Men
 ## About Me
 
 I grew up in northwestern Wisconsin. I went to Notre Dame for college and moved to the Washington D.C. area to get into politics, which I did for just one year before finding ACS.
-
-I'm writing on my blog whenever I can. It's a new personal project. Links to that and other places to find me below:
