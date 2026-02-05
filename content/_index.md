@@ -24,13 +24,7 @@ I'm in charge of everything except the hosting. I book the guests, organize logi
 
 It's a lot of work, but it's a lot of fun.
 
-#### III. Reading
-
-I'm knee deep in the first volume of Robert Caro's Lyndon Johnson biography. It's masterfully written and full of interesting political history.
-
-I'm getting more into the classics. I just read *The Picture of Dorian Gray* and have a good stack on my nightstand to get to: *Pride and Prejudice,* *The Count of Monte Cristo,* *East of Eden,* etc.
-
-#### IV. Family
+#### III. Family
 
 My other full-time job is being a husband and a dad. Best jobs in the world. Men, I highly recommend it.
 
