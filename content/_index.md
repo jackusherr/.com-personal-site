@@ -9,7 +9,7 @@ draft = false
 #### I. Marketing Team at Allen Control Systems (ACS)
 
 
-ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
+ACS is a defense technology startup. We've developed a robotic weapon system that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
 
 [Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). I don't think most people really believe or understand me when I tell them what our company does.
 
