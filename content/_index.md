@@ -11,7 +11,7 @@ draft = false
 
 ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
 
-[Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). It's awesome. I don't think most people really believe or understand me when I tell them what our company does.
+[Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). I don't think most people really believe or understand me when I tell them what our company does.
 
 I was the first marketing hire in June 2024. We now have a full team of seven people. 
 
