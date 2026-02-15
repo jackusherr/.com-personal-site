@@ -8,13 +8,14 @@ draft = false
 
 #### I. Marketing Team at Allen Control Systems (ACS)
 
-I was the first hire for the marketing team in June 2024, and now we have a full six person team.
 
 ACS is a defense technology startup. We've developed a robot (Bullfrog) that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
 
 [Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). It's awesome. I don't think most people really believe or understand me when I tell them what our company does.
 
-If helping build this sounds awesome, [we are hiring](https://www.allencontrolsystems.com/company#jobs) across business ops, engineering, and manufacturing in Austin.
+I was the first marketing hire in June 2024. We now have a full team of seven people. 
+
+If helping build this sounds awesome, [we are hiring](https://www.allencontrolsystems.com/company#jobs) across business ops, engineering, and manufacturing in Austin, TX.
 
 #### II. Podcast Producing
 
