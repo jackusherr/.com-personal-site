@@ -1,3 +1,9 @@
++++
+date = 2024-02-02T04:14:54-08:00
+draft = false
+title = 'The alternative is doing nothing'
++++
+
 This is Jerry Seinfeld's simple system for getting his work done.
 
 He has publicly disscussed how writing his material has always been a really painful, difficult process for him.
