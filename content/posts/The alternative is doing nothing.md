@@ -10,7 +10,7 @@ He has publicly disscussed how writing his material has always been a really pai
 
 To combat his tendency to procrastinate, he uses the following method:
 
-For a set amount of time, you can either write, or do nothing. You don't have to write, but you can't do anything else.
+**For a set amount of time, you can either write, or do nothing. You don't have to write, but you can't do anything else.**
 
 His thing was writing, but it can be used for anything. It just works.
 
