@@ -1,5 +1,5 @@
 +++
-date = 2024-02-02T04:14:54-08:00
+date = 2025-06-02T04:14:54-08:00
 draft = false
 title = 'The alternative is doing nothing'
 +++
