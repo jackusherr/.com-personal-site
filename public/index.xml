@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home Page on Jack Usher</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home Page on Jack Usher</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home Page on Jack Usher</title><link>https://jackusher.com/</link><description>Recent content in Home Page on Jack Usher</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate><atom:link href="https://jackusher.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Example</title><link>https://jackusher.com/posts/my-post-template/</link><pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate><guid>https://jackusher.com/posts/my-post-template/</guid><description>&lt;p>This is my post content. It works. See, great?&lt;/p>
+&lt;h3 id="its-in-markdown-as-well">It&amp;rsquo;s in Markdown as well.&lt;/h3>
+&lt;blockquote>
+&lt;p>Human readable, as it should be.&lt;/p>&lt;/blockquote></description></item></channel></rss>

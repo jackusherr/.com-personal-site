@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <div style="max-width: 640px; margin: 60px auto; padding: 0 20px;">
+    <h1>{{ .Site.Title }}</h1>
+    <h2>{{ .Title }}</h2>
+
+    {{ if .Content }}
+      {{ .Content }}
+    {{ end }}
+
+    {{ if gt (len .RegularPages) 0 }}
+      <ul>
+        {{ range .RegularPages.ByDate.Reverse }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>No posts yet.</p>
+    {{ end }}
+
+    <p><a href="/">Home</a></p>
+  </div>
+</body>
+</html>
