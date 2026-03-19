@@ -11,11 +11,13 @@ draft = false
 
 ACS is a defense technology startup. We've developed a robotic weapon system that uses a machine gun to shoot drones out of the sky. It's an ingenious combo of computer vision + EE + MechE.
 
-I don't think most people really believe or understand me when I tell them what our company does. To help with that, [here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm). 
+[Here's a video](https://youtube.com/shorts/2DJru3rbVR0?si=rVvYvemUdUtORCmm) of the product in action. 
 
 I was the first marketing hire in June 2024. We now have a full team of seven people. 
 
 If helping build this sounds awesome, [we are hiring](https://www.allencontrolsystems.com/company#jobs) across business ops, engineering, and manufacturing in Austin, TX.
+
+*If you have any questions or just want to say hey, email me at jack [at] allencontrolsystems [dot] com.*
 
 #### II. Podcast Producing
 
@@ -33,4 +35,4 @@ My other full-time job is being a husband and a dad. Best jobs in the world. Men
 
 ## About Me
 
-I grew up in northwestern Wisconsin. I went to Notre Dame for college and moved to the Washington D.C. area to get into politics, which I did for just one year before finding ACS.
+I grew up in northwestern Wisconsin. I went to Notre Dame for college and moved to the Washington D.C. area to get into politics, which I did after a couple of years in consulting as a new grad. I worked on Capitol Hill for just one year before leaving to join ACS.
