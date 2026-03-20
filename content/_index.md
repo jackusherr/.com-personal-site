@@ -4,7 +4,7 @@ date = '2026-01-22'
 draft = false
 +++
 
-## What I'm Doing Now
+Here's what I'm up to right now.
 
 #### I. Marketing Team at Allen Control Systems (ACS)
 
