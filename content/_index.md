@@ -39,4 +39,4 @@ I grew up in northwestern Wisconsin. I went to Notre Dame for college and moved 
 
 ## Blog
 
-- [My favorite technique to get things done](My-favorite-technique-to-get-things-done)
+- [My favorite technique to get things done](my-favorite-technique-to-get-things-done)
