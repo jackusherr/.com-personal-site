@@ -36,7 +36,3 @@ My other full-time job is being a husband and a dad. Best jobs in the world. Men
 ## About Me
 
 I grew up in northwestern Wisconsin. I went to Notre Dame for college and moved to the Washington D.C. area to get into politics, which I did after a couple of years in consulting as a new grad. I worked on Capitol Hill for just one year before leaving to join ACS.
-
-## Blog
-
-- [My favorite technique to get things done](my-favorite-technique-to-get-things-done)
