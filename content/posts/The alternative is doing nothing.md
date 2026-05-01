@@ -1,12 +1,12 @@
 +++
 date = 2025-06-02T04:14:54-08:00
 draft = false
-title = 'The alternative is doing nothing'
+title = 'My favorite technique to get things done'
 +++
 
-This is Jerry Seinfeld's simple system for getting his work done.
+This is Jerry Seinfeld's simple system for getting his work done. It's the most effective I've found thus far.
 
-He has publicly disscussed how writing his material has always been a really painful, difficult process for him.
+Seinfeld has publicly disscussed how writing his material has always been a painful and difficult process for him.
 
 To combat his tendency to procrastinate, he uses the following method:
 
