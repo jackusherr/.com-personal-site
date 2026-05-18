@@ -20,11 +20,13 @@
     {{ block "main" . }}{{ end }}
 
 <hr style="border: none; border-top: 1px solid #ddd; margin-top: 40px;">
-<p style="color: #666;">
-  <a href="https://twitter.com/jackusherr" style="color: #666;">Twitter/X</a> ·
-  <a href="https://linkedin.com/in/jack-usher/" style="color: #666;">LinkedIn</a>
+<p style="color: #666; display: flex; justify-content: space-between; align-items: baseline;">
+  <span>
+    <a href="https://twitter.com/jackusherr" style="color: #666;">Twitter/X</a> ·
+    <a href="https://linkedin.com/in/jack-usher/" style="color: #666;">LinkedIn</a>
+  </span>
+  <span style="font-size: 0.8em;">© {{ now.Year }} {{ .Site.Title }}</span>
 </p>
-<p style="color: #666;">© {{ now.Year }} {{ .Site.Title }}</p>
   </div>
 </body>
 </html>
