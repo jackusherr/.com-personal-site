@@ -1,5 +1,5 @@
 +++
-title = 'Home Page'
+title = 'About'
 date = '2026-01-22'
 draft = false
 +++
