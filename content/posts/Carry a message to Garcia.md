@@ -1,6 +1,6 @@
 +++
 date = 2025-09-16
-draft = false
+draft = true
 title = 'Carry a message to Garcia'
 +++
 

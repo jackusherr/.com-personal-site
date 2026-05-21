@@ -1,6 +1,6 @@
 +++
 date = 2025-06-02T04:14:54-08:00
-draft = false
+draft = true
 title = 'My favorite technique to get things done'
 +++
 

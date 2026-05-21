@@ -1,6 +1,6 @@
 +++
 date = 2025-08-17
-draft = false
+draft = true
 title = 'Thank you, MFM'
 +++
 

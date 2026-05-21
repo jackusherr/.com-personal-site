@@ -12,12 +12,7 @@
   <div style="max-width: 640px; margin: 60px auto; padding: 0 20px;">
     <h1><a href="/" style="text-decoration: none; color: inherit;">{{ .Site.Title }}</a></h1>
 
-    <p>
-      <a href="/about/">About</a> ·
-      <a href="/posts/">Archive</a>
-    </p>
-
-    {{ block "main" . }}{{ end }}
+{{ block "main" . }}{{ end }}
 
 <hr style="border: none; border-top: 1px solid #ddd; margin-top: 40px;">
 <p style="color: #666; display: flex; justify-content: space-between; align-items: baseline;">
