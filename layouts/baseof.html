@@ -12,18 +12,14 @@
   <div style="max-width: 640px; margin: 60px auto; padding: 0 20px;">
     <h1><a href="/" style="text-decoration: none; color: inherit;">{{ .Site.Title }}</a></h1>
 
-    <p>
-      <a href="/about/">About</a> ·
-      <a href="/posts/">Archive</a>
-    </p>
-
-    {{ block "main" . }}{{ end }}
+{{ block "main" . }}{{ end }}
 
 <hr style="border: none; border-top: 1px solid #ddd; margin-top: 40px;">
 <p style="color: #666; display: flex; justify-content: space-between; align-items: baseline;">
   <span>
     <a href="https://twitter.com/jackusherr" style="color: #666;">Twitter/X</a> ·
-    <a href="https://linkedin.com/in/jack-usher/" style="color: #666;">LinkedIn</a>
+    <a href="https://linkedin.com/in/jack-usher/" style="color: #666;">LinkedIn</a> ·
+    <a href="https://jackusher.substack.com/" style="color: #666;">Substack</a>
   </span>
   <span style="font-size: 0.8em;">© {{ now.Year }} {{ .Site.Title }}</span>
 </p>
